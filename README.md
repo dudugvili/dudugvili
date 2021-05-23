@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CLI God Of War based game in Python](https://github.com/dudugvili/GOW---2D-Retro-Game)
 
-- 🌱 I’m currently learning **Python - Pandas and Django, Arduino, Matlab**
+- 🌱 I’m currently learning **Python - Pandas and Django, Arduino**
 
 - 👯 I'm intrested in **Android apps and robotics projects**
 

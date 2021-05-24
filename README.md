@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **dudugvili@yahoo.com**
 
-- 📄 Know about my experiences [My resume](https://docdro.id/NQ1rdGa)
-
 - ⚡ Fun fact **House renovating and woodworking is my free-time hobby**
 
 <h3 align="left">Connect with me:</h3>

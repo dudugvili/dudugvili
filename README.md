@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://il.linkedin.com/in/dudu-gvili-478167203" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2048px-Linkedin_icon.svg.png" alt="dudu gvili" height="30" width="40" /></a>
+<a href="https://il.linkedin.com/in/dudu-gvili-478167203" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2048px-Linkedin_icon.svg.png" alt="dudu gvili" height="40" width="40" /></a>
 
 </p>
 

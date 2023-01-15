@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm David Gvili</h1>
 <h3 align="center">A Computer Engineering student at Bar-Ilan University</h3>
 
-- 🔭 I’m currently working on [CLI God Of War based game in Python](https://github.com/dudugvili/GOW---2D-Retro-Game)
+- 🔭 I’m currently working on a new social platform application
 
-- 🌱 I’m currently learning **Python - Pandas and Django, Arduino**
+- 🌱 I’m currently learning **Python - Django and AngularJS**
 
 - 👯 I'm intrested in **Android apps and robotics projects**
 
-- 📫 How to reach me **dudugvili@yahoo.com**
+- 📫 How to reach me **dudugvili15@gmail.com**
 
 - ⚡ Fun fact **House renovating and woodworking is my free-time hobby**
 

@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python - Django and AngularJS**
 
-- 👯 I'm intrested in **Android apps and robotics projects**
+- 👯 I'm intrested in **Embedded and robotics projects**
 
 - 📫 How to reach me **dudugvili15@gmail.com**
 
